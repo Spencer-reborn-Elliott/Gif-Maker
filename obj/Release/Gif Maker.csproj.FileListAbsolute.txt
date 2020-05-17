@@ -1,0 +1,13 @@
+C:\Users\Spencer\source\repos\Gif Maker\bin\Release\Gif Maker.exe.config
+C:\Users\Spencer\source\repos\Gif Maker\bin\Release\Gif Maker.exe
+C:\Users\Spencer\source\repos\Gif Maker\bin\Release\Gif Maker.pdb
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif Maker.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif_Maker.Properties.Resources.resources
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif Maker.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif Maker.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif Maker.exe
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif Maker.pdb
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif_Maker.btnScramble.resources
+C:\Users\Spencer\source\repos\Gif Maker\bin\Release\AnimatedGif.dll
+C:\Users\Spencer\source\repos\Gif Maker\bin\Release\System.Drawing.Common.dll
+C:\Users\Spencer\source\repos\Gif Maker\obj\Release\Gif Maker.csproj.CopyComplete
